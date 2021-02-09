@@ -1,5 +1,5 @@
 # XPshutdown
-Download Page for compiled XP Shutdown and Logoff menu:
+Download Page for latest compiled XP Shutdown and Logoff menu:
 www.weedtrek.ca/XPshutdown.html
 
 - download the package from the link above, extract to location of your choice
